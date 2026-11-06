@@ -1,0 +1,7 @@
+x = int(input("Entrez le premier nombre (x) : "))
+y = int(input("Entrez le deuxième nombre (y) : "))
+print(f"Somme : {x + y}")
+print(f"Différence : {x - y}")
+print(f"Produit : {x * y}")
+print(f"Quotient : {x / y}")
+print(f"Reste de la division : {x % y}")

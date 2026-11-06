@@ -1,0 +1,1 @@
+print("Bienvenue à L'ENTA LAAYOUNE")
